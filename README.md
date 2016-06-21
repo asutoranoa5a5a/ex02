@@ -5,3 +5,4 @@
 git push
 git init
 git log
+ゴッドスピードレスポンス
